@@ -1,0 +1,34 @@
+h1{
+    /* color: red; */
+    /* color: rgb(50, 231, 207); */
+    color: #edff9f;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 10px;
+    color: blue;
+    font-weight: 600;
+}
+
+#destaque{
+    color: green;
+    font-size: 15px;
+}
+.pequenininho{
+    font-size: 5px;
+}
+div{
+    background-color: black;
+}
+.divisao1{
+    background-color: pink;
+}
+.divisao2{
+    background-color: brown;
+}
+.destaque2{
+    color: yellow;
+    font-size: 40px;
+}
